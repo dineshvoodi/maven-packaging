@@ -1,0 +1,1 @@
+- This application is example of packaging the the app to zip and has sample shell script
